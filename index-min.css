@@ -1,0 +1,3 @@
+
+:root{--bgimage:Front/IMG/}.container-fluid{padding-right:unset;padding-left:unset;overflow-x:hidden}input.insert{background:unset;border:unset}.gt_white_content{top:50%!important}h5{FONT-SIZE:15PX}p{color:#000;font-weight:700;font-size:12px}.featured-block-text{MARGIN-LEFT:0px;  MARGIN-RIGHT:0px; align-content:stretch!important;justify-content:center!important;left:unset!important}.displaynav{display:block!important;}.AccordionPanelContent ul li{color:#000 !important;font-size:var(--p-font-size);font-weight:var(--font-weight-normal)}
+@media (min-width:1200px){.carousel-image{object-fit:cover; width:100%; height:100%}.carousel-item{width:100%}}.swiper{display:grid !important;}.swiper-wrapper{min-width:0 !important;}
